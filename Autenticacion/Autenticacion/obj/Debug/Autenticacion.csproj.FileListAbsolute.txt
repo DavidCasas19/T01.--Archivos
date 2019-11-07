@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\Autenticacion\Autenticacion\bin\Debug\Autenticacion.exe.config
+C:\Users\david\source\repos\Autenticacion\Autenticacion\bin\Debug\Autenticacion.exe
+C:\Users\david\source\repos\Autenticacion\Autenticacion\bin\Debug\Autenticacion.pdb
+C:\Users\david\source\repos\Autenticacion\Autenticacion\obj\Debug\Autenticacion.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Autenticacion\Autenticacion\obj\Debug\Autenticacion.exe
+C:\Users\david\source\repos\Autenticacion\Autenticacion\obj\Debug\Autenticacion.pdb
